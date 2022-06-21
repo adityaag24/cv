@@ -132,9 +132,14 @@ a{
   background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
   text-decoration: none;
 }
+.contactbtn{
+  width:1%;
+  height:1%;
+  margin-left: 5px;
+}
 .middle-container{
 
 }
 .bottom-container{
-  background-color: lightblue;
+
 }
